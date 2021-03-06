@@ -1,0 +1,89 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.backfon {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.logo {
+	margin-top: 30px;
+	width: 200px;
+}
+.name-site {
+	display: inline-flex;
+	width: 400px;
+	margin-left: 30%;
+	font-size: 50px;
+	font-weight: bold;
+	position: relative;
+	bottom: 20px;
+	color: rgb(180, 180, 180);
+}
+.punkt {
+	display: flex-box;
+	font-size: 35px;
+	text-align: center;
+	word-spacing: 70px;
+	background-color:rgb(70, 70, 70);
+	height: 100px;
+	line-height: 100px;
+}
+.punkt a {
+	color: rgb(180, 180, 180);
+	text-decoration: none;
+}
+.main {
+	display: flex;
+}
+.content {
+	width: 70%;
+	background-color: rgb(40, 40, 40);
+	height: 100%;
+	height: auto;
+
+}
+.name-zag {
+	color: rgb(180, 180, 180);
+	text-align: center;
+	font-size: 30px;
+	height: auto;
+}
+.soderjanie {
+	margin: 0 20px 0 20px;
+	text-align: center;
+}
+.news {
+	width: 30%;
+	background-color: rgb(90, 90, 90);
+}
+.name-news {
+	color: rgb(180, 180, 180);
+	text-align: center;
+	font-size: 35px;
+}
+.nnews {
+	display: flexbox;
+	flex-direction: column;
+	text-align: center;
+}
+.nnews img{
+	width: 300px;
+}
+.text-news {
+	color: rgb(180, 180, 180);
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.footer {
+	background-color: rgb(70, 70, 70);
+	display: flex;
+}
+.name-menu {
+	font-size: 35px;
+	color: rgb(180, 180, 180);
+}
+.menu {
+	
+}
