@@ -83,7 +83,17 @@ body {
 .name-menu {
 	font-size: 35px;
 	color: rgb(180, 180, 180);
+	margin-left: 20px;
+	line-height: 50px;
 }
 .menu {
-	
+	margin-left: 50px;
+	columns: 100px 2;
+	 color: rgb(180, 180, 180);
+}
+.name-creator {
+	color: rgb(247, 41, 127);
+	font-size: 30px;
+	margin-left: 300px;
+	line-height: 50px;
 }
