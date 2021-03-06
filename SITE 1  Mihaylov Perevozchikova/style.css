@@ -32,9 +32,12 @@ div.fim{
   width:800px;
   height: 800px;
 }
-.menu{
-   width: 1280px;
-    margin: auto;
+}
+
+
+    .menu{
+      width: 1280px;
+      margin: auto;
 
     }
   #logo{
@@ -103,19 +106,19 @@ height: 6px;
  }
  #my{
 color: #89cac9;
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   float:right;
   font-size: 30pt;
   margin-top:-220px ;
-  margin-right: 280px;
+  margin-right: 0px;
  }
  #lor{
   color: #89cac9;
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   float:right;
    font-size: 13pt;
   margin-top:-165px ;
-  margin-right: 340px;
+  margin-right: 105px;
  }
  #banner5{ 
   float: right;
@@ -124,7 +127,7 @@ color: #89cac9;
  }
  #bub{
   color: rgb(230,230,230);
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   float:right;
    font-size: 17pt;
    margin-right: 27%;
@@ -135,13 +138,13 @@ color: #89cac9;
   height: 45px;
   width: 140px;
   float: right;
-  margin-right: 420px;
+  margin-right: 200px;
   margin-top: -110px;
  }
  #about{
   color: #636363;
   font-size: 30pt;
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   margin-top: 35px;
   text-align: center;
 
@@ -149,7 +152,7 @@ color: #89cac9;
  #longe{
   color: #636363;
   font-size: 10pt;
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   text-align: center;
  }
  #banner6{
@@ -218,7 +221,7 @@ margin-top:50px;
 }
 #my2{
 color: #89cac9;
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   float:right;
   font-size: 30pt;
   margin-top: -23%;
@@ -226,11 +229,11 @@ color: #89cac9;
  }
  #lor2{
   color: #89cac9;
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   float:right;
    font-size: 13pt;
   margin-top:-19%;
-  margin-right: 20.8%;
+  margin-right: 24%;
  }
  .buy2{
   background-color: #06ccb3;
@@ -242,7 +245,7 @@ color: #89cac9;
 }
 #bub2{
   color: rgb(230,230,230);
-  font-family: Myriad Pro;
+  font-family: SegoeWPLight;
   float:right;
   font-size: 17pt;
    margin-right: 27%;
@@ -263,13 +266,13 @@ color: #89cac9;
 }
 #six{
   font-size: 180pt;
-   font-family: Myriad Pro;
+   font-family: SegoeWPLight;
  text-align: center;
  color: #49d7b0;
 }
 #Oyu{
   font-size: 60pt;
-   font-family: Myriad Pro;
+   font-family: SegoeWPLight;
  text-align: center;
  color: #49d7b0;
  margin-top: -50px;
@@ -277,13 +280,13 @@ color: #89cac9;
 #coppy{
   color: #a8a8a8;
 text-align: center;
-font-family: Myriad Pro;
+font-family: SegoeWPLight;
   margin-top: 3%;
     margin-bottom: 3%;
   font-size: 22px;
 }
 .line{
   background-color: #dedede;
-  margin-top: 81px;
+  margin-top: 103px;
   height: 2px;
 }
