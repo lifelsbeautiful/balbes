@@ -29,6 +29,11 @@ body {
   margin: 18px 0 0 140px;
 }
 .vvod {
-  border-color: #79b260;
-  border-style: none;
+  border: solid 4px #79b260;
+  margin-left: 44px;
+  position: relative;
+  bottom: 30px;
+  height: 30px;
+  width: 336px;
+
 }
